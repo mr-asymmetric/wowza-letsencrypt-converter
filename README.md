@@ -44,7 +44,7 @@ Tested on Amazon Linux with Wowza Streaming Engine 4.6.0.
 
 ## License
 
-Licensed under the MIT license. 
+Licensed under the MIT license. <https://github.com/robymus/wowza-letsencrypt-converter>
  
 ## Requirements
 
